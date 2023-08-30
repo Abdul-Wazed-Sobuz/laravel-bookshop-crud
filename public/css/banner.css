@@ -1,0 +1,13 @@
+.banner img {
+    border-radius: 10px;
+    background: silver 1% / cover no-repeat;
+    width: 80%;
+    height: 450px;
+    padding-left: 10%;
+    padding-right: 10%;
+    /*padding-top: 0.5%;*/
+}
+
+.home{
+    height: 95vh;
+}
